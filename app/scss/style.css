@@ -13,7 +13,6 @@ body {
   font-size: 13px;
   background-color: #ecf2f8;
   min-height: 100vh;
-  overflow: hidden;
 }
 
 @media screen and (min-width: 750px) {
