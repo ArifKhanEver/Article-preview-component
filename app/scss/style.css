@@ -164,11 +164,6 @@ body main .content .user .share-icon.active {
     -webkit-transform: translateY(30%);
             transform: translateY(30%);
   }
-  body main .content .user .share-icon.active:hover {
-    cursor: pointer;
-    -webkit-transform: scale(1);
-            transform: scale(1);
-  }
 }
 
 body main .share-section {

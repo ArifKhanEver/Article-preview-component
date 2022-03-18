@@ -114,11 +114,7 @@ body {
                     background-color: $desaturatedDarkBlue;
                         @media screen and(max-width: 750px) {    
                             position: relative;
-                            transform: translateY(30%);
-                            &:hover {
-                                cursor: pointer;
-                                transform: scale(1);
-                            }
+                            transform: translateY(30%);    
                         }
                     }
                 }
